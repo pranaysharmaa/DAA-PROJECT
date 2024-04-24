@@ -12,3 +12,8 @@ https://docs.google.com/presentation/d/1ir9C4V-yw4vvbhz8cc3cr8dk420wF6nw/edit#sl
 
 PROJECT DEMO : 
 https://youtu.be/VJp84oaVKY8?si=pTRazv39FN_Fj2YH 
+
+Team Members - 
+  Eshaan Sharma
+  Pranay Sharma
+  Pranav Kaul
