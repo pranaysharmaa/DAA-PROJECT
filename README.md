@@ -7,8 +7,15 @@ The project applies these algorithms to a local network, aiming to enhance data 
 
 The presentation also discusses the computational complexity associated with these algorithms, noting the potential for optimization through advanced data structures like Fibonacci Heaps. Finally, the project underscores ongoing advancements and the potential for future enhancements in network efficiency and reliability.
 
+Team Members - 
+  Eshaan Sharma ,
+  Pranay Sharma ,
+  Pranav Kaul
+  
 DAA PROJECT PPT : 
 https://docs.google.com/presentation/d/1ir9C4V-yw4vvbhz8cc3cr8dk420wF6nw/edit#slide=id.p1 
 
 PROJECT DEMO : 
 https://youtu.be/VJp84oaVKY8?si=pTRazv39FN_Fj2YH 
+
+
